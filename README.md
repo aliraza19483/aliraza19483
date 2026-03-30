@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript-based projects and strengthening my problem-solving skills through DSA practice.<br><br>👯 I’m looking to collaborate on beginner to intermediate Java, Html,Css,JavaScript,React or DevOps-related projects.<br><br>🤝 I’m looking for help with JavaScript, React, Angular, Devops fundamentals, and real-world system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms, DevOps basics, and FullStack concepts.<br><br>💬 Ask me about Java, SQLHtml,Css,JavaScript,React, Git, or how I’m preparing for a career in tech.<br><br>⚡ Fun fact: I believe consistent practice beats talent—and I’m proving it one commit at a time.<br>
+🔭 I’m currently working on JavaScript-based projects and strengthening my problem-solving skills through DSA practice.<br><br>👯 I’m looking to collaborate on beginner to intermediate Html,Css,JavaScript,React or DevOps-related projects.<br><br>🤝 I’m looking for help with JavaScript, React, Angular, Devops fundamentals, and real-world system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms, DevOps basics, and FullStack concepts.<br><br>💬 Ask me about Java, SQLHtml,Css,JavaScript,React, Git, or how I’m preparing for a career in tech.<br><br>⚡ Fun fact: I believe consistent practice beats talent—and I’m proving it one commit at a time.<br>
 
 
 ## 🌐 Socials:
